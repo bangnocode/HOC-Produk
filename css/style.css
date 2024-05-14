@@ -1,0 +1,25 @@
+.container-background-photo-product{
+	padding: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #BA2121;
+}
+
+.image-product{
+	height: 30vh;
+}
+
+.container-product{
+	border: 1px solid;
+}
+
+.container-category-price{
+	display: flex;
+	justify-content: space-between;
+}
+
+.container-about-product{
+	padding: 10px;
+}
+
